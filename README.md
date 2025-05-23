@@ -21,14 +21,10 @@
   <img src="./img/preview2.png" width="400" alt="Preview Comandos">
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/THOBot3.png" width="800" alt="Instalación del Bot">
-</div>
-
 ## 📋 Características
 
 - ⚡ Sistema de mensajes automáticos
-- 🛡️ Comandos de moderación
+- 🛡️ Comandos deL Bot
 - 📊 Sistema de información del servidor
 - 📜 Reglas personalizables
 - 🎨 Embeds profesionales
