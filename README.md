@@ -11,7 +11,7 @@
   <a href="https://discord.gg/tfRuSC52Da">
     <img src="https://img.shields.io/badge/Discord-Unirse_al_Servidor-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
   </a>
-  <a href="https://youtu.be/tutorial-id">
+  <a href="https://youtu.be/0wqdWS2Neek">
     <img src="https://img.shields.io/badge/YouTube-Tutorial_de_Instalación-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="Tutorial">
   </a>
 </div>
