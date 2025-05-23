@@ -64,17 +64,13 @@ start.bat
 - `!ping` - Comprueba la latencia del bot
 - `!reglas` - Muestra las reglas del servidor
 
-## 🤝 Contribuir
-
-Las contribuciones son bienvenidas. Por favor, lee el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
-
 ## 📝 Licencia
 
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para más detalles.
 
 ## 🌟 Créditos
 
-Desarrollado con ❤️ por [Tu Nombre]
+Desarrollado con ❤️ por [ HANNIBAL THO ]
 
 <div align="center">
   <a href="https://discord.gg/tfRuSC52Da">
