@@ -87,7 +87,7 @@ client.on('messageCreate', async message => {
                         text: `ID: ${guild.id} • Solicitado por ${message.author.tag}`,
                         iconURL: message.author.displayAvatarURL({ dynamic: true })
                     })
-                    .setImage(config.bannerGif) // Movido antes del setTimestamp
+                    .setImage(config.bannerGif) 
                     .setTimestamp();
                 await message.reply({ embeds: [infoEmbed] });
                 break;
@@ -101,7 +101,7 @@ client.on('messageCreate', async message => {
                         iconURL: message.guild.iconURL({ dynamic: true }) 
                     })
                     .setDescription(config.rules.join('\n\n'))
-                    .setImage(config.bannerGif) // Movido antes del setTimestamp
+                    .setImage(config.bannerGif) 
                     .setFooter({ 
                         text: '⚔️ El incumplimiento de estas reglas resultará en sanción', 
                         iconURL: client.user.displayAvatarURL() 
@@ -120,7 +120,7 @@ client.on('messageCreate', async message => {
                             .map(([cmd, desc]) => `> \`${config.prefix}${cmd}\` → ${desc}`)
                             .join('\n'))
                     .setFooter({ text: '🌟 THO - Tu Mejor Compañero', iconURL: message.guild.iconURL() })
-                    .setImage(config.bannerGif) // Movido antes del setTimestamp
+                    .setImage(config.bannerGif) 
                     .setTimestamp();
                 await message.reply({ embeds: [helpEmbed] });
                 break;
@@ -131,7 +131,7 @@ client.on('messageCreate', async message => {
                     .setColor(config.embedColors.primary)
                     .setAuthor({ name: '🏓 Ping del Bot', iconURL: client.user.displayAvatarURL() })
                     .setDescription(`> 📡 Latencia: **${client.ws.ping}ms**\n> ⚡ Estado: **Operativo**`)
-                    .setImage(config.bannerGif) // Movido antes del setTimestamp
+                    .setImage(config.bannerGif) 
                     .setFooter({ text: '🔥 THO System', iconURL: message.guild.iconURL() })
                     .setTimestamp();
                 await message.reply({ embeds: [pingEmbed] });
@@ -141,7 +141,6 @@ client.on('messageCreate', async message => {
     }
 });
 
-// Mensajes aleatorios
 setInterval(() => {
     const channel = client.channels.cache.get(config.generalChannelId);
     if (channel) {
@@ -153,7 +152,7 @@ setInterval(() => {
                 iconURL: client.user.displayAvatarURL() 
             })
             .setDescription(randomMessage)
-            .setImage(config.bannerGif) // Movido antes del setTimestamp
+            .setImage(config.bannerGif) 
             .setFooter({ 
                 text: '🌟 Mensaje Automático • THO Community', 
                 iconURL: channel.guild.iconURL({ dynamic: true }) 
