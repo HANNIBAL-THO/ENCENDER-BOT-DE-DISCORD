@@ -34,12 +34,12 @@
 
 1. Clona el repositorio
 ```bash
-git clone https://github.com/tu-usuario/encender-bot.git
+git clone https://github.com/HANNIBAL-THO/ENCENDER-BOT-DE-DISCORD
 ```
 
 2. Instala las dependencias
 ```bash
-cd encender-bot
+cd ENCENDER-BOT-DE-DISCORD
 npm install
 ```
 
