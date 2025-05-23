@@ -74,6 +74,6 @@ Desarrollado con ❤️ por [ HANNIBAL THO ]
 
 <div align="center">
   <a href="https://discord.gg/tfRuSC52Da">
-    <img src="https://img.shields.io/discord/SERVER_ID?color=7289da&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/discord/1349558279004622880?color=7289da&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
