@@ -24,7 +24,7 @@
 ## 📋 Características
 
 - ⚡ Sistema de mensajes automáticos
-- 🛡️ Comandos deL Bot
+- 🛡️ Comandos del Bot
 - 📊 Sistema de información del servidor
 - 📜 Reglas personalizables
 - 🎨 Embeds profesionales
